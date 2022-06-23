@@ -1,0 +1,24 @@
+.homeContainer{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+.checkbox { 
+    justify-items: start;
+    position: relative;
+    width: 100%;
+    margin-left: 325px;
+}
+.checkbox>input {
+    margin-right: 8px;
+}
+
+.homeTitle {
+    position: relative;
+    justify-items: start;
+    width: 100%;
+    margin-left: 325px;
+}
